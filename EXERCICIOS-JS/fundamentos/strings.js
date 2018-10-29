@@ -11,4 +11,4 @@ console.log(escola.substring(0, 3))
 console.log('Escola'.concat(escola).concat("!"))
 console.log(escola.replace(3, 'e'))
 
-console.log('Ana,Maria,Pedro'.split(','))
+console.log('Ana,Maria,Pedro'.split(',')) // transforna string em array e contem regex onde pode por parametros de busca

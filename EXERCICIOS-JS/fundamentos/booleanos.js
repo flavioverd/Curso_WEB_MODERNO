@@ -25,7 +25,7 @@ console.log(!!NaN)
 console.log(!!undefined)
 console.log(!!(isAtivo = false))
 
-console('pra finalizar...')
+console.log('pra finalizar...')
 console.log(!!('' || null || 0 || ' '))
 
 let nome = 'Flavio'

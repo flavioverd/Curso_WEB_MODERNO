@@ -1,5 +1,5 @@
-const valores = [7.7, 8.9, 6.3, 9.2]
-console.log(valores[0], valores[3])
+const valores = [7.7, 8.9, 6.3, 9.2] // Arrays são vetores com variaveis com ou sem valores
+console.log(valores[0], valores[3]) // Essas váriaveis contem indices "posições" dentro do array
 console.log(valores[4])
 
 valores[4] = 10
