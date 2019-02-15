@@ -1,0 +1,1 @@
+// reduce é uma função para 
